@@ -58,7 +58,7 @@ I'm 44 years old. For 20 years I have worked in sales at all levels. I have expe
 
 [Random Jokes](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30random-jokes/)  
 
-[Eco-sound](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30eco-sound/)  
+[Eco-sound](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30eco-sounds/)  
 
 ## Education
 
