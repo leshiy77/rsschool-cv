@@ -47,12 +47,19 @@ I'm 44 years old. For 20 years I have worked in sales at all levels. I have expe
 ## Project 
 
 [Movie App](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30movie-app/)  
+
 [Portfolio Photo](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/portfolio/)  
+
 [Audio player](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30audio-player/)  
+
 [Image Gallery](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30image-gallery/)  
+
 [Random Game](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30random-game/)  
+
 [Random Jokes](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30random-jokes/)  
+
 [Eco-sound](https://rolling-scopes-school.github.io/leshiy77-JSFEPRESCHOOL/js30eco-sound/)  
+
 ## Education
 
 ![University-logo](img/university.png)
