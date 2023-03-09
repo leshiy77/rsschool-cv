@@ -67,6 +67,6 @@ Management specialist
 
 ## Language
 
-Russian - native  
-English - B1  
-Ukraine - C1  
+Russian - native
+English - B1
+Ukraine - C1
